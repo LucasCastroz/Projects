@@ -1,5 +1,0 @@
-package groupId.Springboot.error;
-
-public class ResourceNotFoundDetails {
-
-}

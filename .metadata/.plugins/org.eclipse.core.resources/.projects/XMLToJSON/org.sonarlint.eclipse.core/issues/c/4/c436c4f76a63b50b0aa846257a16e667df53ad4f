@@ -1,17 +1,17 @@
 
-’squid:S3008	"eRename this field "PRETTY_PRINT_INDENT_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â–ÑÛHêRMINORZ
-CODE_SMELL
 j
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜‹åæùÿÿÿÿHìRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜‹åæùÿÿÿÿH•RMAJORZ
 CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Œ¼ØÿÿÿÿÿHéRMINORZ
-CODE_SMELL
-­"squid:ClassVariableVisibilityCheck	"fMake PRETTY_PRINT_INDENT_FACTOR a static final constant or non-public and provide accessors if needed.(Â–ÑÛHçRMINORZVULNERABILITY
-psquid:S1444	"@Make this "public static PRETTY_PRINT_INDENT_FACTOR" field final(Â–ÑÛHåRMINORZVULNERABILITY
-esquid:S1444"5Make this "public static TEST_XML_STRING" field final(›­àöHæRMINORZVULNERABILITY
-¢"squid:ClassVariableVisibilityCheck"[Make TEST_XML_STRING a static final constant or non-public and provide accessors if needed.(›­àöHèRMINORZVULNERABILITY
+¢"squid:ClassVariableVisibilityCheck"[Make TEST_XML_STRING a static final constant or non-public and provide accessors if needed.(›­àöH–RMINORZVULNERABILITY
+psquid:S1444	"@Make this "public static PRETTY_PRINT_INDENT_FACTOR" field final(Â–ÑÛH—RMINORZVULNERABILITY
 j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÊïåûøÿÿÿÿHíRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊïåûøÿÿÿÿH˜RMAJORZ
 CODE_SMELL
-‡squid:S3008"ZRename this field "TEST_XML_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›­àöHëRMINORZ
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Œ¼ØÿÿÿÿÿH™RMINORZ
 CODE_SMELL
+‡squid:S3008"ZRename this field "TEST_XML_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›­àöHšRMINORZ
+CODE_SMELL
+’squid:S3008	"eRename this field "PRETTY_PRINT_INDENT_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â–ÑÛH›RMINORZ
+CODE_SMELL
+­"squid:ClassVariableVisibilityCheck	"fMake PRETTY_PRINT_INDENT_FACTOR a static final constant or non-public and provide accessors if needed.(Â–ÑÛHœRMINORZVULNERABILITY
+esquid:S1444"5Make this "public static TEST_XML_STRING" field final(›­àöHRMINORZVULNERABILITY
