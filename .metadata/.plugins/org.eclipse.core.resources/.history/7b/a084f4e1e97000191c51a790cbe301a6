@@ -1,0 +1,5 @@
+package groupId.Springboot.repository;
+
+public interface StudentRepository {
+
+}

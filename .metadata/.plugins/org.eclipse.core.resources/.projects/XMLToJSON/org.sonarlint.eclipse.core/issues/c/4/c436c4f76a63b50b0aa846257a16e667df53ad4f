@@ -1,0 +1,17 @@
+
+’squid:S3008	"eRename this field "PRETTY_PRINT_INDENT_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(В–СЫHкRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ежщяяяяHмRMAJORZ
+CODE_SMELL
+Ќsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ЊјШяяяяяHйRMINORZ
+CODE_SMELL
+­"squid:ClassVariableVisibilityCheck	"fMake PRETTY_PRINT_INDENT_FACTOR a static final constant or non-public and provide accessors if needed.(В–СЫHзRMINORZVULNERABILITY
+psquid:S1444	"@Make this "public static PRETTY_PRINT_INDENT_FACTOR" field final(В–СЫHеRMINORZVULNERABILITY
+esquid:S1444"5Make this "public static TEST_XML_STRING" field final(›­ацHжRMINORZVULNERABILITY
+ў"squid:ClassVariableVisibilityCheck"[Make TEST_XML_STRING a static final constant or non-public and provide accessors if needed.(›­ацHиRMINORZVULNERABILITY
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(КпеышяяяяHнRMAJORZ
+CODE_SMELL
+‡squid:S3008"ZRename this field "TEST_XML_STRING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›­ацHлRMINORZ
+CODE_SMELL
